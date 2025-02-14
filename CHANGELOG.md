@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.4] - 2025-02-13
+
+- `Persistence` layer added `MongoDB Atlas`
+- Improvements in `UI`:
+  - Divide page into sections: `YouTube Video Info`, `Generate Quiz`, `Quiz`
+  - Renamed Streamlit `app.py` into `generator.py`
+  - Added Streamlit `quiz.py` with the Quiz-Answering Engine
+
 ## [0.0.3] - 2025-02-08
 
 ### Changed
