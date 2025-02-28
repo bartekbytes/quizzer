@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.5] - 2025-02-28
+
+- Rearranging code
+
 ## [0.0.4] - 2025-02-13
 
 - `Persistence` layer added `MongoDB Atlas`
